@@ -70,4 +70,4 @@ Créer un lecteur musical en ligne utilisant l’API Deezer, affichant les morce
 - Ajout de playlists
 - Lecture complète via OAuth Deezer
 - Système de favoris
-- Mode hors-ligne avec cache
+- Mode hors-ligne avec cache.
